@@ -1,0 +1,11 @@
+{
+  "name": "cdk_sls_ecom",
+  "version": "1.0.0",
+  "description": "serverless cdk backend for ecom",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
